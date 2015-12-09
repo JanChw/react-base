@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b38c91f-82c0-4fd7-a6d8-154a85e43023" name="Default" comment="" />
+    <ignored path="react-base.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="react-base" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/comment/Comment.js" />
+        <option value="$PROJECT_DIR$/app/comment/CommentList.js" />
+        <option value="$PROJECT_DIR$/config.js" />
+        <option value="$PROJECT_DIR$/app/main.js" />
+        <option value="$PROJECT_DIR$/app/comments.json" />
+        <option value="$PROJECT_DIR$/app/comment/CommentForm.js" />
+        <option value="$PROJECT_DIR$/app/comment/CommentBox.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <exe-path>/usr/local/bin/bower</exe-path>
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>Jade</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="comment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b38c91f-82c0-4fd7-a6d8-154a85e43023" name="Default" comment="" />
+      <created>1449299231160</created>
+      <option name="number" value="Default" />
+      <updated>1449299231160</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.325" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Pomodoro" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="172" column="2" selection-start-line="172" selection-start-column="2" selection-end-line="172" selection-end-column="2" />
+          <folding>
+            <marker date="1449644896000" expanded="true" signature="14:5772" placeholder="{&quot;baseURL&quot;: &quot;/&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="100:182" placeholder="{...}" />
+            <marker date="1449644896000" expanded="true" signature="118:178" placeholder="[...]" />
+            <marker date="1449644896000" expanded="true" signature="193:275" placeholder="{&quot;github:*&quot;: &quot;jspm_packages/github/*&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="285:5770" placeholder="{&quot;babel&quot;: &quot;npm:babel-core@5.8.33&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="685:791" placeholder="{&quot;css&quot;: &quot;github:systemjs/plugin-css@0.1.19&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="834:876" placeholder="{&quot;assert&quot;: &quot;npm:assert@1.3.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="919:961" placeholder="{&quot;buffer&quot;: &quot;npm:buffer@3.5.1&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="1004:1062" placeholder="{&quot;domain-browser&quot;: &quot;npm:domain-browser@1.1.4&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="1105:1147" placeholder="{&quot;events&quot;: &quot;npm:events@1.0.2&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="1188:1248" placeholder="{&quot;path-browserify&quot;: &quot;npm:path-browserify@0.0.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="1292:1337" placeholder="{&quot;process&quot;: &quot;npm:process@0.11.2&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="1380:1444" placeholder="{&quot;stream-browserify&quot;: &quot;npm:stream-browserify@1.0.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="1485:1524" placeholder="{&quot;util&quot;: &quot;npm:util@0.10.3&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="1552:1760" placeholder="{&quot;fs&quot;: &quot;github:jspm/nodelibs-fs@0.1.2&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="1784:1898" placeholder="{&quot;domain&quot;: &quot;github:jspm/nodelibs-domain@0.1.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="1924:1963" placeholder="{&quot;util&quot;: &quot;npm:util@0.10.3&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="1997:2058" placeholder="{&quot;process&quot;: &quot;github:jspm/nodelibs-process@0.1.2&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="2084:2210" placeholder="{&quot;base64-js&quot;: &quot;npm:base64-js@0.0.8&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="2237:2452" placeholder="{&quot;fs&quot;: &quot;github:jspm/nodelibs-fs@0.1.2&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="2484:2543" placeholder="{&quot;buffer&quot;: &quot;github:jspm/nodelibs-buffer@0.1.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="2577:2636" placeholder="{&quot;events&quot;: &quot;github:jspm/nodelibs-events@0.1.1&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="2662:2808" placeholder="{&quot;jstransform&quot;: &quot;npm:jstransform@10.1.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="2860:2966" placeholder="{&quot;fs&quot;: &quot;github:jspm/nodelibs-fs@0.1.2&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="2990:3271" placeholder="{&quot;core-js&quot;: &quot;npm:core-js@1.2.5&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="3299:3354" placeholder="{&quot;util&quot;: &quot;github:jspm/nodelibs-util@0.1.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="3386:3692" placeholder="{&quot;base62&quot;: &quot;npm:base62@0.1.1&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="3724:3929" placeholder="{&quot;js-tokens&quot;: &quot;npm:js-tokens@1.0.2&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="3964:4025" placeholder="{&quot;process&quot;: &quot;github:jspm/nodelibs-process@0.1.2&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="4053:4112" placeholder="{&quot;assert&quot;: &quot;github:jspm/nodelibs-assert@0.1.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="4139:4222" placeholder="{&quot;asap&quot;: &quot;npm:asap@2.0.3&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="4252:4293" placeholder="{&quot;react&quot;: &quot;npm:react@0.14.2&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="4319:4448" placeholder="{&quot;envify&quot;: &quot;npm:envify@3.4.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="4484:4889" placeholder="{&quot;buffer&quot;: &quot;github:jspm/nodelibs-buffer@0.1.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="4920:5115" placeholder="{&quot;amdefine&quot;: &quot;npm:amdefine@1.0.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="5152:5306" placeholder="{&quot;events&quot;: &quot;github:jspm/nodelibs-events@0.1.1&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="5342:5401" placeholder="{&quot;buffer&quot;: &quot;github:jspm/nodelibs-buffer@0.1.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="5428:5542" placeholder="{&quot;process&quot;: &quot;github:jspm/nodelibs-process@0.1.2&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="5574:5640" placeholder="{&quot;systemjs-json&quot;: &quot;github:systemjs/plugin-json@0.1.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="5665:5766" placeholder="{&quot;inherits&quot;: &quot;npm:inherits@2.0.1&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/comment/Comment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6268657">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <marker date="1449639921000" expanded="true" signature="80:542" placeholder="{...}" />
+            <marker date="1449639921000" expanded="true" signature="94:539" placeholder="{...}" />
+            <marker date="1449639921000" expanded="true" signature="125:522" placeholder="&lt;xml/&gt;" />
+            <marker date="1449639921000" expanded="true" signature="167:503" placeholder="&lt;xml/&gt;" />
+            <marker date="1449639921000" expanded="true" signature="285:410" placeholder="&lt;xml/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12450593">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <marker date="1446896458000" expanded="true" signature="31:368" placeholder="..." />
+            <marker date="1446896458000" expanded="true" signature="38:227" placeholder="..." />
+            <marker date="1446896458000" expanded="true" signature="234:360" placeholder="..." />
+            <marker date="1446896458000" expanded="true" signature="262:300" placeholder="..." />
+            <marker date="1446896458000" expanded="true" signature="279:292" placeholder="..." />
+            <marker date="1446896458000" expanded="true" signature="310:350" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47014925">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <marker date="1449644896000" expanded="true" signature="14:5772" placeholder="{&quot;baseURL&quot;: &quot;/&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="100:182" placeholder="{...}" />
+            <marker date="1449644896000" expanded="true" signature="118:178" placeholder="[...]" />
+            <marker date="1449644896000" expanded="true" signature="193:275" placeholder="{&quot;github:*&quot;: &quot;jspm_packages/github/*&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="285:5770" placeholder="{&quot;babel&quot;: &quot;npm:babel-core@5.8.33&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="685:791" placeholder="{&quot;css&quot;: &quot;github:systemjs/plugin-css@0.1.19&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="834:876" placeholder="{&quot;assert&quot;: &quot;npm:assert@1.3.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="919:961" placeholder="{&quot;buffer&quot;: &quot;npm:buffer@3.5.1&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="1004:1062" placeholder="{&quot;domain-browser&quot;: &quot;npm:domain-browser@1.1.4&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="1105:1147" placeholder="{&quot;events&quot;: &quot;npm:events@1.0.2&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="1188:1248" placeholder="{&quot;path-browserify&quot;: &quot;npm:path-browserify@0.0.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="1292:1337" placeholder="{&quot;process&quot;: &quot;npm:process@0.11.2&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="1380:1444" placeholder="{&quot;stream-browserify&quot;: &quot;npm:stream-browserify@1.0.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="1485:1524" placeholder="{&quot;util&quot;: &quot;npm:util@0.10.3&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="1552:1760" placeholder="{&quot;fs&quot;: &quot;github:jspm/nodelibs-fs@0.1.2&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="1784:1898" placeholder="{&quot;domain&quot;: &quot;github:jspm/nodelibs-domain@0.1.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="1924:1963" placeholder="{&quot;util&quot;: &quot;npm:util@0.10.3&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="1997:2058" placeholder="{&quot;process&quot;: &quot;github:jspm/nodelibs-process@0.1.2&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="2084:2210" placeholder="{&quot;base64-js&quot;: &quot;npm:base64-js@0.0.8&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="2237:2452" placeholder="{&quot;fs&quot;: &quot;github:jspm/nodelibs-fs@0.1.2&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="2484:2543" placeholder="{&quot;buffer&quot;: &quot;github:jspm/nodelibs-buffer@0.1.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="2577:2636" placeholder="{&quot;events&quot;: &quot;github:jspm/nodelibs-events@0.1.1&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="2662:2808" placeholder="{&quot;jstransform&quot;: &quot;npm:jstransform@10.1.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="2860:2966" placeholder="{&quot;fs&quot;: &quot;github:jspm/nodelibs-fs@0.1.2&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="2990:3271" placeholder="{&quot;core-js&quot;: &quot;npm:core-js@1.2.5&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="3299:3354" placeholder="{&quot;util&quot;: &quot;github:jspm/nodelibs-util@0.1.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="3386:3692" placeholder="{&quot;base62&quot;: &quot;npm:base62@0.1.1&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="3724:3929" placeholder="{&quot;js-tokens&quot;: &quot;npm:js-tokens@1.0.2&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="3964:4025" placeholder="{&quot;process&quot;: &quot;github:jspm/nodelibs-process@0.1.2&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="4053:4112" placeholder="{&quot;assert&quot;: &quot;github:jspm/nodelibs-assert@0.1.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="4139:4222" placeholder="{&quot;asap&quot;: &quot;npm:asap@2.0.3&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="4252:4293" placeholder="{&quot;react&quot;: &quot;npm:react@0.14.2&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="4319:4448" placeholder="{&quot;envify&quot;: &quot;npm:envify@3.4.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="4484:4889" placeholder="{&quot;buffer&quot;: &quot;github:jspm/nodelibs-buffer@0.1.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="4920:5115" placeholder="{&quot;amdefine&quot;: &quot;npm:amdefine@1.0.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="5152:5306" placeholder="{&quot;events&quot;: &quot;github:jspm/nodelibs-events@0.1.1&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="5342:5401" placeholder="{&quot;buffer&quot;: &quot;github:jspm/nodelibs-buffer@0.1.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="5428:5542" placeholder="{&quot;process&quot;: &quot;github:jspm/nodelibs-process@0.1.2&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="5574:5640" placeholder="{&quot;systemjs-json&quot;: &quot;github:systemjs/plugin-json@0.1.0&quot;...}" />
+            <marker date="1449644896000" expanded="true" signature="5665:5766" placeholder="{&quot;inherits&quot;: &quot;npm:inherits@2.0.1&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/comment/CommentList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35261193">
+          <caret line="9" column="95" selection-start-line="9" selection-start-column="95" selection-end-line="9" selection-end-column="95" />
+          <folding>
+            <marker date="1449641640000" expanded="true" signature="118:460" placeholder="{...}" />
+            <marker date="1449641640000" expanded="true" signature="133:458" placeholder="{...}" />
+            <marker date="1449641640000" expanded="true" signature="202:353" placeholder="{...}" />
+            <marker date="1449641640000" expanded="true" signature="386:441" placeholder="&lt;xml/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/comments.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1660079">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31343284">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/comment/CommentBox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5298507">
+          <caret line="42" column="70" selection-start-line="42" selection-start-column="70" selection-end-line="42" selection-end-column="70" />
+          <folding>
+            <marker date="1449654465000" expanded="true" signature="191:1223" placeholder="{...}" />
+            <marker date="1449654465000" expanded="true" signature="215:360" placeholder="{...}" />
+            <marker date="1449654465000" expanded="true" signature="394:537" placeholder="{...}" />
+            <marker date="1449654465000" expanded="true" signature="555:875" placeholder="{...}" />
+            <marker date="1449654465000" expanded="true" signature="572:867" placeholder="{&quot;dataType&quot;: 'json'...}" />
+            <marker date="1449654465000" expanded="true" signature="696:760" placeholder="{...}" />
+            <marker date="1449654465000" expanded="true" signature="805:856" placeholder="{...}" />
+            <marker date="1449654465000" expanded="true" signature="889:1221" placeholder="{...}" />
+            <marker date="1449654465000" expanded="true" signature="920:1204" placeholder="&lt;xml/&gt;" />
+            <marker date="1449654465000" expanded="true" signature="995:1046" placeholder="&lt;xml/&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/comment/CommentForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58768654">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
